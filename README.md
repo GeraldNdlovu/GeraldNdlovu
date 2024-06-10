@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GeraldNdlovu
 - 👀 I’m interested in Python, Mathematics, Actuarial Science and Financial Engineering
-- 🌱 I’m currently learning R, C++ and Rust
+- 🌱 I’m currently working on stateless microservices_gRPC, RabbitMQ, ultra low latency and criticial latency algorithmic design
 - 💞️ I’m looking to collaborate on financial technology and risk management
 - 📫 How to reach me www.qubitquark.com@gmail.com
 - 😄 Pronouns: ...
