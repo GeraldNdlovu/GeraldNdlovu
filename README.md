@@ -4,10 +4,10 @@
 I'm a passionate **Financial Engineer** and **Actuarial Scientist** with a strong background in **Python Development**, **Machine Learning**, and **AI**. I'm also interested in **Blockchain Technology**.
 
 ## 🔨 Skills & Tools
-- **Languages**: Python, JavaScript, SQL
-- **Frameworks**: Django, Flask, TensorFlow
+- **Languages**: Python, Rust & Solidity
+- **Frameworks**: HardHat, Flask, TensorFlow
 - **Tools**: Docker, Git, Jupyter Notebooks
-- **Platforms**: AWS, Azure
+- **Platforms**: AWS, Azure, Digital Ocean
 
 ## 🌟 Key Projects
 - [BTC Trading Strategy](https://github.com/GeraldNdlovu/btc-trading-strategy): A Flask-based application for automated Bitcoin trading strategies.
